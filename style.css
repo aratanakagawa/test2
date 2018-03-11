@@ -1,0 +1,22 @@
+#ex{
+  border: 0 px solid;
+}
+
+#rect {
+    background:#87d3ff;
+    width:100px;
+    padding:10px;
+    margin:100px auto 0;
+    text-align:center;
+    color:#fff;
+}
+
+#ex2{
+  display: none;
+}
+
+#ex2 p.odd {
+  background-color: white;   /* 偶数番目 */
+  color: black;   /* 偶数番目 */
+
+}
